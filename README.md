@@ -1,7 +1,7 @@
 # blackholesimri_rspc
 We investigated the phenomenon of black holes, gravitational waves, and dark matter. 
 The purpose of the study is to build a model of the motion of a system of 
-double black holes in the presence of dark matter and to study the influence of 
+binary black holes in the presence of dark matter and to study the influence of 
 dark matter on the dynamics of motion. 
 The work's hypothesis is that dark matter surrounding a massive black hole 
 can influence the dynamics of motion of a less massive black hole. 
